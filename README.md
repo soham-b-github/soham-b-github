@@ -6,6 +6,11 @@
 
 
 [![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=soham-b-github)](https://github.com/soham-b-github/github-readme-stats)
+
+#### :phone: U can connect me :phone:
+- **Linkedin **- https://www.linkedin.com/in/bhattacharyasoham026
+- **Email id **- bhattacharyasoham026@gmail.com
+
 <!---
 soham-b-github/soham-b-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
