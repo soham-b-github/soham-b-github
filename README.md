@@ -1,6 +1,6 @@
 ## 💡 About Me
 
-I'm currently pursuing a Master's in Big Data Analytics, blending my passion for data-driven technologies and having a deep-rooted interest in Indian Classical Music alongside. My academic and personal projects span across the realms of **Machine Learning**, **Computer Vision**, **Graph Databases**, and **Audio Signal Processing**.
+I'm currently pursuing a Master's in Big Data Analytics, blending my passion for data-driven technologies and having a deep-rooted interest in Indian Classical Music alongside. My academic and personal projects span across the realms of **Deep Learning**, **Computer Vision**, **Graph Databases**, and **Audio Signal Processing**.
 
 ## 🛠️ Tech Stack & Tools
 
