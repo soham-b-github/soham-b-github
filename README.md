@@ -24,7 +24,7 @@ I'm currently pursuing a Master's in Big Data Analytics, blending my passion for
 
 ## Let's Connect
 
-- LinkedIn: [linkedin.com/in/soham-bhattacharya](https://www.linkedin.com/in/soham-bhattacharya)
+- [LinkedIn](linkedin.com/in/bhattacharyasoham026)
 - Email: *[bhattacharyasoham026@gmail.com]*
 
 
