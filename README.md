@@ -1,35 +1,17 @@
-## 💡 About Me
+## About
 
-I'm currently pursuing a Master's in Big Data Analytics, blending my passion for data-driven technologies and having a deep-rooted interest in Indian Classical Music alongside. My academic and personal projects span across the realms of **Deep Learning**, **Computer Vision**, **Graph Databases**, and **Audio Signal Processing**.
+Hi, I am Soham. I'm currently pursuing a Master's in Big Data Analytics, blending my passion for data-driven technologies and having a deep-rooted interest in Indian Classical Music alongside.
 
-## 🛠️ Tech Stack & Tools
-
-- **Languages**: Python, SQL, R
-- **Data Science**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
-- **Machine Learning**: PyTorch, TensorFlow 
-- **Big Data**: Apache Spark, Hadoop
-- **Databases**: GraphDB, MySQL, Neo4j
-- **Computer Vision**: OpenCV
-- **Audio Processing**: LibROSA
-- **Tools**: Git, VS Code, Jupyter, Docker (basics)
-
-
-## 🎯 Interests
-
-- Highly interested in domains of _**Fintech, Geospatial Analysis, Digital Humanities**_ using **AI-ML, DL-NLP, CV**
-- Building **intelligent systems** with real-time feedback
-- Exploring the intersection of **art and data**
-- Academic and research collaborations in **AI and Data Analytics**
-
+Visit my portfolio: [Click here](https://sites.google.com/view/sohambhattacharya/home/)
 
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/bhattacharyasoham026/)
 - Email: *[bhattacharyasoham026@gmail.com]*
 
-
+<!---
 _“Art is the expression of data the soul understands.”_
-
+--->
 
 ## Statistics on GitHub
 
