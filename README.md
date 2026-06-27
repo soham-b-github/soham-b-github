@@ -2,12 +2,20 @@
 
 Hi, I am Soham. I'm currently pursuing a Master's in Big Data Analytics, blending my passion for data-driven technologies and having a deep-rooted interest in Indian Classical Music alongside.
 
-Visit my portfolio: [Click here](https://sites.google.com/view/sohambhattacharya/home/)
+Check out my latest projects on my [Personal Portfolio](https://sites.google.com/view/sohambhattacharya/home/)
 
 ## Let's Connect
 
+<!---
 - [LinkedIn](https://www.linkedin.com/in/bhattacharyasoham026/)
 - Email: *[bhattacharyasoham026@gmail.com]*
+--->
+
+I'm always open to discussing data, technology, or music. Feel free to reach out:
+
+* **LinkedIn:** [Soham Bhattacharya](https://www.linkedin.com/in/your-linkedin-profile)
+* **Email:** [bhattacharyasoham026@gmail.com](mailto:bhattacharyasoham026@gmail.com)
+
 
 <!---
 _“Art is the expression of data the soul understands.”_
