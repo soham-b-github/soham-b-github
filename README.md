@@ -17,6 +17,8 @@ I'm always open to discussing data, technology, or music. Feel free to reach out
 * **Email:** [bhattacharyasoham026@gmail.com](mailto:bhattacharyasoham026@gmail.com)
 
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=soham-b-github)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soham-b-github)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 _“Art is the expression of data the soul understands.”_
 --->
