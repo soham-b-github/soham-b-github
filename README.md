@@ -4,17 +4,6 @@ Hi, I am Soham. I'm currently pursuing a Master's in Big Data Analytics, blendin
 
 Check out my latest projects on my [Personal Portfolio](https://sites.google.com/view/sohambhattacharya/home/)
 
-## Let's Connect
-
-<!---
-- [LinkedIn](https://www.linkedin.com/in/bhattacharyasoham026/)
-- Email: *[bhattacharyasoham026@gmail.com]*
---->
-
-I'm always open to discussing data, technology, or music. Feel free to reach out:
-
-* **LinkedIn:** [Soham Bhattacharya](https://www.linkedin.com/in/your-linkedin-profile)
-* **Email:** [bhattacharyasoham026@gmail.com](mailto:bhattacharyasoham026@gmail.com)
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=soham-b-github)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soham-b-github)](https://github.com/anuraghazra/github-readme-stats)
