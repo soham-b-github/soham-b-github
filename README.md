@@ -1,12 +1,14 @@
 ## About
 
-Hi, I am Soham. I'm currently pursuing a Master's in Big Data Analytics, blending my passion for data-driven technologies and having a deep-rooted interest in Indian Classical Music alongside.
+Rooted in a strong background of academic research and analytical modeling, I am passionate about bridging the gap between theoretical machine learning concepts and practical, production-ready applications that drive real-world business value.
 
-Check out my latest projects on my [Personal Portfolio](https://sites.google.com/view/sohambhattacharya/home/)
+<!---Check out my latest projects on my [Personal Portfolio](https://sites.google.com/view/sohambhattacharya/home/)--->
 
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=soham-b-github)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soham-b-github)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=soham-b-github)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soham-b-github)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 _“Art is the expression of data the soul understands.”_
